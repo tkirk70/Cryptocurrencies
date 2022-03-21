@@ -9,9 +9,9 @@ OSU Module 18 - Unsupervised Machine Learning
 
 
 ### Preparing Data
-  - Data Selection
-  - Data Processing
-  - Data Transformation
+  - Data Selection - making good choices about which data will be used.
+  - Data Processing - organizing the data by formatting, cleaning, and sampling it.
+  - Data Transformation - transforming our data into a simpler format for storage and future use, such as a CSV, spreadsheet, or database file. 
 
 
 #### Tools
