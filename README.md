@@ -11,7 +11,7 @@ OSU Module 18 - Unsupervised Machine Learning
 ### Preparing Data
   - Data Selection - making good choices about which data will be used.
   - Data Processing - organizing the data by formatting, cleaning, and sampling it.
-  - Data Transformation - transforming our data into a simpler format for storage and future use, such as a CSV, spreadsheet, or database file. 
+  - Data Transformation - transforming our data into a simpler format for storage and future use, such as a CSV, spreadsheet, or database file.
 
 
 #### Tools
@@ -20,3 +20,5 @@ OSU Module 18 - Unsupervised Machine Learning
   * scikit-learn 0.24.2
   * plotly 5.6.0
   * pyviz_comms 2.1.0
+  * pandas 1.3.4
+  * [Iris Data Set](https://archive.ics.uci.edu/ml/datasets/iris)
