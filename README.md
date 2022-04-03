@@ -1,4 +1,4 @@
-# Cryptocurrencies :money_with_wings:
+# Cryptocurrencies :money_with_wings: :currency_exchange:
 OSU Module 18 - Unsupervised Machine Learning
 
 ### Transformations
