@@ -14,6 +14,15 @@ OSU Module 18 - Unsupervised Machine Learning
   - Data Transformation - transforming our data into a simpler format for storage and future use, such as a CSV, spreadsheet, or database file.
 
 
+  ![](Resources/elbow.png)
+
+  ![](Resources/2d.png)
+
+  ![](Resources/3d.png)
+
+
+
+
 #### Tools
   * conda 4.12.0
   * Python 3.7.11
