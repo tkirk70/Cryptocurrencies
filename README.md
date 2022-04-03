@@ -5,7 +5,7 @@ OSU Module 18 - Unsupervised Machine Learning
   * Take raw data and make it easier to understand.  Pre-process data into correct format with only numerical values.
 
 ### Clustering Algorithms
-  * Group similar objects into clusters. For example, if a cable service wants to group those with similar viewing habits, we would use a clustering algorithm.
+  * Group similar objects into clusters. For example, using a PCA model.
 
 
 ### Preparing Data
@@ -28,6 +28,4 @@ OSU Module 18 - Unsupervised Machine Learning
   * Python 3.7.11
   * scikit-learn 0.24.2
   * plotly 5.6.0
-  * pyviz_comms 2.1.0
   * pandas 1.3.4
-  * [Iris Data Set](https://archive.ics.uci.edu/ml/datasets/iris)
